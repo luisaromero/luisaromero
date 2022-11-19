@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000" width="40" height="40"/>
+</div>
+
+
+
 - 👋 Hi, I’m @luisaromero
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
