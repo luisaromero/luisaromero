@@ -7,7 +7,6 @@
 ### :woman_technologist: About Me :
 
 - 👋 Hi, I’m @luisaromero
-- 🌱 I’m currently learning **Angular**
 - 😊 Pronouns: she/her
 - :zap: In my free time, I watch Art Films and i draw.
 
