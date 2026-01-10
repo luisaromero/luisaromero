@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @luisaromero
 - 😊 Pronouns: she/her
-- :zap: In my free time, I watch Art Films and i draw.
+- :zap: In my free time, I watch Art Films and i Draw.
 
 ---
 
