@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @luisaromero
 - 😊 Pronouns: she/her
-- 📚 Learning: typescript
+- 📚 Learning: Sql
 - :zap: In my free time, I watch Art Films and i Draw.
 
 ---
